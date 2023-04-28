@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="puerto_swing-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/puerto_swing_master_jar</output-path>
+    <root id="archive" name="puerto_swing-master.jar">
+      <element id="module-output" name="puerto_swing-master" />
+    </root>
+  </artifact>
+</component>
